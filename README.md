@@ -1,8 +1,8 @@
 # Welcome! 👨‍💻
 
-- 📚 Working on smart contract development and security
-- 💻 Learning Solidity and Foundry
-- ➡️ Focusing on broader appsec and Rust next
+- 📚 Working on HackTricks ARTE
+- 💻 Learning Rust
+- ➡️ Focusing on vulnerability research next
 - 🔴 Background is in offensive security
 - 🌐 Reach me at luke@0x1uke.com
 
