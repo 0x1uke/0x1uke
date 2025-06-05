@@ -1,8 +1,8 @@
 # Welcome! 👨‍💻
 
-- 📚 Working on HackTricks ARTE
-- 💻 Learning Rust
-- ➡️ Focusing on vulnerability research next
+- 📚 Working on bug bounty
+- 💻 Learning web security
+- ➡️ Focusing on general vulnerability research next
 - 🔴 Background is in offensive security
 - 🌐 Reach me at luke@0x1uke.com
 
